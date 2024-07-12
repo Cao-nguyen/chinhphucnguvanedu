@@ -14,19 +14,19 @@ const music = new Audio();
 
 const songs = [
     {
-        path: '../podcast/1.mp3',
+        path: 'https://cao-nguyen.github.io/chinhphucnguvanedu/asset/podcast/1.mp3',
         displayName: 'Số phát sóng CH0001: Giá trị của hòn đá',
         cover: 'https://Cao-nguyen.github.io/CNliterature.edu.vn/1.jpg',
         artist: 'Tác phẩm: Google - Thu âm: Lý Cao Nguyên',
     },
     {
-        path: '../podcast/2.mp3',
+        path: 'https://cao-nguyen.github.io/chinhphucnguvanedu/asset/podcast/2.mp3',
         displayName: 'Số phát sóng CH0002: Bà tôi',
         cover: 'https://Cao-nguyen.github.io/CNliterature.edu.vn/2.jpg',
         artist: 'Tác phẩm: Lý Cao Nguyên - Thu âm: Lý Cao Nguyên',
     },
     {
-        path: '../podcast/3.mp3',
+        path: 'https://cao-nguyen.github.io/chinhphucnguvanedu/asset/podcast/3.mp3',
         displayName: 'Số phát sóng CH0003: Ngọn gió của đời tôi',
         cover: 'https://Cao-nguyen.github.io/CNliterature.edu.vn/3.jpg',
         artist: 'Tác phẩm: Nguyễn Thu Hiền - Thu âm: Lý Cao Nguyên',
