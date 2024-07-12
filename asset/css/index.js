@@ -14,7 +14,7 @@ const music = new Audio();
 
 const songs = [
     {
-        path: '../podcast/1.mp3',
+        path: '../../podcast/1.mp3',
         displayName: 'Số phát sóng CH0001: Giá trị của hòn đá',
         cover: 'https://Cao-nguyen.github.io/CNliterature.edu.vn/1.jpg',
         artist: 'Tác phẩm: Google - Thu âm: Lý Cao Nguyên',
