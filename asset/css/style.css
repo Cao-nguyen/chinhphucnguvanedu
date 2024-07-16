@@ -1551,7 +1551,8 @@ img.camau{
 }
 
 img.phuquoc{
-    transform: translate(0rem, 0rem);
+    width: 250px;
+    transform: translate(3rem, -55rem);
 }
 
 img.phuquoc:hover{
@@ -3192,6 +3193,7 @@ h3{
     }
 
     /* Khám phá Việt Nam */
+
 h1.thongbao{
     display: none;
 }
@@ -3363,6 +3365,15 @@ img.baclieu{
 img.camau{
     width: 350px;
     transform: translate(9rem, -20rem);
+}
+
+img.phuquoc{
+    width: 250px;
+    transform: translate(3rem, -55rem);
+}
+
+img.phuquoc:hover{
+    filter: drop-shadow(0px -2px 15px #000000);
 }
 
 #main3{
@@ -4995,6 +5006,9 @@ button:hover{
 }
 
 /* Khám phá Việt Nam */
+img.phuquoc{
+    display: none;
+}
 
 h1.thongbao{
     font-size: 25px;
