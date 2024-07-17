@@ -114,5 +114,15 @@ playerProgress.addEventListener('click', setProgressBar);
 loadMusic(songs[musicIndex]);
 
 
+// Khám phá Việt Nam
+document.querySelector('.image-container').addEventListener('mouseover', () => {
+    console.log('Hovered over image');
+});
+
+document.querySelector('.image-container').addEventListener('mouseout', () => {
+    console.log('Mouse left the image');
+});
+
+
 
 
